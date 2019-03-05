@@ -377,7 +377,7 @@ To confirm whether it successfully installed or not, enter the URL `http://167.9
 
 If the installation has succeeded, you should see the following Webpage:
 
-![Screenshot](https://res.cloudinary.com/sdey96/image/upload/v1527170572/Capture_seeiof.png)
+![Screenshot](https://i.ibb.co/9Z6ZWSG/Screenshot-from-2019-03-05-17-26-16.png)
 
 ### 11. Installing `pip`
 
