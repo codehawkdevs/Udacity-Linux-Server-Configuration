@@ -683,4 +683,4 @@ $ sudo cat /var/log/apache2/error.log
 [3] <https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps>
 
 ## If you're running into issues:
-contact me on [twitter](https://www.twitter.com/harshsahu97/)
+Contact me on [twitter](https://www.twitter.com/harshsahu97/)
