@@ -553,22 +553,22 @@ $ sudo service apache2 restart
         ├── client_secrets.json
         ├── database_setup.py
         ├── drop_tables.py
-        ├── fake_db_populator.py
+        ├── insertdata.py
         ├── static
         │   └── style.css
         └── templates
-            ├── delete.html
-            ├── delete_category.html
-            ├── edit_category.html
+            ├── catlist.html
+            ├── deletecat.html
+            ├── deleteitem.html
             ├── index.html
-            ├── items.html
-            ├── layout.html
+            ├── editcat.html
+            ├── edititem.html
             ├── login.html
-            ├── new-category.html
-            ├── new-item-2.html
-            ├── new-item.html
+            ├── list.html
+            ├── newitem.html
+            ├── newcat.html
             ├── update-item.html
-            └── view-item.html
+            └── iteminfo.html
    ```
 
 5. Install required packages:
